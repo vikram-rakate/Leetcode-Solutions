@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0229-majority-element-ii](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
