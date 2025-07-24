@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0229-majority-element-ii](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Hash Table
@@ -13,6 +14,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -22,4 +24,8 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
