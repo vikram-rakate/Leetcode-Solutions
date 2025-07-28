@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0792-binary-search](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0792-binary-search](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
