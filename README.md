@@ -15,6 +15,7 @@
 | [0229-majority-element-ii](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3221-find-the-peaks](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/3221-find-the-peaks) |
 ## Hash Table
@@ -41,6 +42,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
