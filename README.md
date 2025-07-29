@@ -16,6 +16,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3221-find-the-peaks](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/3221-find-the-peaks) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
