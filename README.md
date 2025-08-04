@@ -65,4 +65,12 @@
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/3221-find-the-peaks) |
+## String
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
