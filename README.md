@@ -52,12 +52,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
@@ -70,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
