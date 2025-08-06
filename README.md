@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
