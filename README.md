@@ -89,4 +89,12 @@
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
