@@ -94,8 +94,13 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [1448-maximum-69-number](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0326-power-of-three) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
