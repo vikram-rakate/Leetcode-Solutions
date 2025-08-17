@@ -62,6 +62,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0867-new-21-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0867-new-21-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0867-new-21-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 ## Recursion
 |  |
@@ -103,4 +105,12 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
