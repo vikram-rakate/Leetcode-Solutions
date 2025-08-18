@@ -14,6 +14,7 @@
 | [0152-maximum-product-subarray](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0679-24-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0679-24-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 ## Recursion
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0867-new-21-game) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
