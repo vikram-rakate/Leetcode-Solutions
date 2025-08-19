@@ -20,6 +20,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3221-find-the-peaks](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/3221-find-the-peaks) |
 ## Hash Table
@@ -99,6 +100,7 @@
 | [0679-24-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
