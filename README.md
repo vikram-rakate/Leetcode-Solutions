@@ -17,6 +17,7 @@
 | [0679-24-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -65,6 +66,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0867-new-21-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0867-new-21-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [0679-24-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0679-24-game) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
