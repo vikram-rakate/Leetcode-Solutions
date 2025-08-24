@@ -19,6 +19,7 @@
 | [0907-koko-eating-bananas](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -70,6 +71,7 @@
 | [0152-maximum-product-subarray](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0867-new-21-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 ## Divide and Conquer
 |  |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0867-new-21-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Probability and Statistics
 |  |
 | ------- |
