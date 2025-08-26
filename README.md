@@ -26,6 +26,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3221-find-the-peaks](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/3221-find-the-peaks) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
