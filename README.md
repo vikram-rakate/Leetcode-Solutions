@@ -66,6 +66,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -149,6 +150,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
