@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0018-4sum) |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
