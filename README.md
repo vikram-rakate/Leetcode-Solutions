@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Enumeration
 |  |
 | ------- |
@@ -160,4 +163,12 @@
 | [0061-rotate-list](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vikram-rakate/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
